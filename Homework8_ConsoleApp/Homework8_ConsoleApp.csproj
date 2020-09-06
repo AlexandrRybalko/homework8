@@ -51,12 +51,15 @@
     <Compile Include="Task3\Rectangle.cs" />
     <Compile Include="Task3\Square.cs" />
     <Compile Include="Task3\Triangle.cs" />
+    <Compile Include="Task4\Database.cs" />
+    <Compile Include="Task4\Furniture.cs" />
+    <Compile Include="Task4\Item.cs" />
+    <Compile Include="Task4\RawMaterial.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Task4\" />
     <Folder Include="Task5\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
